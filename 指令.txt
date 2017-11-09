@@ -1,5 +1,6 @@
 --上传指令-------------------------------------------
 -----------------------------------------------------
+git pull origin master (先拉下来) 
 add git .
 git commit -m "Info"
 git push -u origin master
