@@ -2,7 +2,7 @@
 -----------------------------------------------------
 git pull origin master (先拉下来) 
 git add ./
-git commit -m "Info"
+git commit -m "C++学习"
 git push -u origin master
 -----------------------------------------------------
 
