@@ -6,9 +6,9 @@ int main()
 	/*
 	ifÓï¾äµÄÓï·¨
 	if(test-condition)
-		statement1
+	statement1
 	else
-		statement2
+	statement2
 	*/
 
 	return 0;
